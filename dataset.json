@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Detailed restaurant dataset for Conroe, Texas. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Conroe, Texas, US",
+  "export_job_id": "cdd40ce6-777e-4b2b-9bfc-1a34dee5da07",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 198468,
+  "location_name": "Conroe",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-conroe-texas-us-sample-198468",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/198468/beamstation_198468_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 43,
+  "sample_sha256": "db05ae138a980afb7fc13781d3eec69cafa58381b401d867c13610902911e904",
+  "sample_size_bytes": 173778,
+  "total_records": 430,
+  "updated_at": "2026-04-09T10:32:08.945859+00:00"
+}
