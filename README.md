@@ -1,6 +1,6 @@
 # All Restaurants in Conroe, Texas, US
 
-> Free BeamStation sample export with 43 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `198468` |
 | Location | Conroe |
 | Category | Restaurants |
-| Full dataset size | 430 records |
-| Free sample size | 43 records (10.0%) |
-| Last export | 2026-04-09T10:32:08.945859+00:00 |
+| Full dataset size | 428 records |
+| Free sample size | 42 records (9.81%) |
+| Last export | 2026-04-16T10:25:18.817476+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-conroe-texas-us-sample-198468/releases/download/sample-latest/beamstation_198468_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
