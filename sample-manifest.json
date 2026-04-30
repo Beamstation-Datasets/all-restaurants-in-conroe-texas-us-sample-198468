@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8d8f0dfc-933c-4c97-a8f6-1f3e8546c837",
+  "export_job_id": "7abb8ecd-a975-4cce-8a76-bc8f87f24715",
   "id_short": 198468,
-  "published_at": "2026-04-23T19:32:12Z",
+  "published_at": "2026-04-30T19:28:30Z",
   "repo_name": "all-restaurants-in-conroe-texas-us-sample-198468",
   "sample_asset_name": "beamstation_198468_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/198468/beamstation_198468_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "f50e574747be6e832882008dc1494db840144fcee38ebb322efa611c111c7ceb",
-  "sample_size_bytes": 133125,
-  "total_records": 353
+  "sample_records": 43,
+  "sample_sha256": "1b61a8144b64c28f44f787660c5e5aad869764b569551f55c6ce798e52c6055c",
+  "sample_size_bytes": 160280,
+  "total_records": 434
 }
